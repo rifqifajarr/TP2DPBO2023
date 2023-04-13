@@ -24,6 +24,7 @@ ERD :
 4. add driver. Disini user dapat memasukkan data driver lalu memilih team dari ComboBox dimana team yang dapat dipilih adalah team yang sudah dibuat sebelumnya. lalu user dapat memasukkan foto driver, ketika foto telah dipilih maka akan tampil nama file image yang telah dipilih dan ketika user menekan add maka data akan dimasukkan kedalam database dan foto akan di copy ke folder yang ada di dalam project/lokasi yang sama dengan .JAR.
 
 ![adddriver](/Screenshot/adddriver.png)
+![adddriver2](/Screenshot/adddriver2.png)
 
 5. delete data. User dapat menghapus data yang ada dengan menekkan tombol delete. Perlu diketahui bahwa ketika salah satu team dihapus, maka driver yang termasuk ke dalam team tersebut akan dihapus pula
 
